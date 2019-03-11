@@ -12,3 +12,6 @@ If you already have installed Lisk Core and wish to upgrade to the current versi
 ## When to upgrade, when to migrate?
 
 Every time that a new software update of Lisk Core introduces a **hard fork** on the network, you need to **migrate** your existing Lisk Core version. In all other cases, you can use the normal upgrade process.
+
+#### OMG this is so cool
+Excited to make some difference ;)
