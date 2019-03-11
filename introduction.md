@@ -101,7 +101,3 @@ Please be sure to read and follow our [Contribution Guidelines](https://github.c
 
 ### Gitter
 If you have any further questions please join our [Gitter](https://gitter.im/LiskHQ/lisk).
-
-
-#### is this real ?
-to make it better i will add some crucial notes here.
