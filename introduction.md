@@ -101,6 +101,3 @@ Please be sure to read and follow our [Contribution Guidelines](https://github.c
 
 ### Gitter
 If you have any further questions please join our [Gitter](https://gitter.im/LiskHQ/lisk).
-
-##### Testing something
-bla bla bla
